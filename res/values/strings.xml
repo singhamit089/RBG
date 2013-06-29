@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">RBG</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="options">Options :-</string>
+    <string name="play">Play ! !</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">RBG</string>
+    <string name="result">Large Text</string>
+    <string name="target_msg">You have to select the follwing color as target!</string>
+    <string name="target_button1">continue to play!</string>
+
+</resources>
